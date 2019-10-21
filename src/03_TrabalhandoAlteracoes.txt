@@ -1,0 +1,3 @@
+git add [Arquivo]
+git add *
+git commit -m "comentario"
