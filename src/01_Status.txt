@@ -1,0 +1,5 @@
+Visualizando Repositorio
+	
+git status		-- Visualiza o status do repositorio
+git blame [arquivo]	-- Visualiza track de alterações no arquivo
+git log			-- Visualiza o log de alterações

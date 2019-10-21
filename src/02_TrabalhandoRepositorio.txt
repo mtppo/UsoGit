@@ -1,0 +1,3 @@
+git branch			-- Lista branchs
+git branch [nome]		-- Cria nova branch
+git checkout [nome_branch]	-- Alterna para a branch
