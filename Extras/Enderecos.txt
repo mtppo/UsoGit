@@ -5,3 +5,5 @@ linq: https://www.youtube.com/watch?v=jdinE9SkUnE&list=PLjSvZRjBVKtxSjp8qgX6FaGP
 https://udemy.com
 linq: https://www.udemy.com/course/git-completo-do-basico-ao-avancado/learn/lecture/6514576?start=75#overview
 
+Pro Git (Livro)
+https://progit2.s3.amazonaws.com/en/2016-03-22-f3531/progit-en.1084.pdf
