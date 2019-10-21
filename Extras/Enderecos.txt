@@ -1,3 +1,7 @@
 
 Introdução Git - Fábio Akita
 linq: https://www.youtube.com/watch?v=jdinE9SkUnE&list=PLjSvZRjBVKtxSjp8qgX6FaGP8zneP9B4G&index=1
+
+https://udemy.com
+linq: https://www.udemy.com/course/git-completo-do-basico-ao-avancado/learn/lecture/6514576?start=75#overview
+
